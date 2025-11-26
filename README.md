@@ -1,1 +1,1 @@
-# MaterialsFormatiusSMX
+# Materials Formatius per alumnes SMX
