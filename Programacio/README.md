@@ -26,5 +26,7 @@ Recull de recursos per aprendre els fonaments dels llenguatges de programació m
 ## C\#
 
 - [Microsoft Learn: C# for absolute beginners](https://learn.microsoft.com/en-us/shows/csharp-fundamentals-for-absolute-beginners/)
+- [W3Schools: C# Tutorial](https://www.w3schools.com/cs/index.php)
+- [Coursera MOOC: Introducción a la Programación con C#](https://cursos.mooc.es/curso/introduccin-a-la-programacin-con-c-5143)
 
 ## Altres conceptes: metodologies i pràctiques
