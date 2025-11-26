@@ -21,7 +21,7 @@ Recull de recursos per aprendre els fonaments dels llenguatges de programació m
 - [W3Schools: JavaScript Tutorial](https://www.w3schools.com/js/)
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 
-## C#
+## C\#
 
 - [Microsoft Learn: C# for absolute beginners](https://learn.microsoft.com/en-us/shows/csharp-fundamentals-for-absolute-beginners/)
 
