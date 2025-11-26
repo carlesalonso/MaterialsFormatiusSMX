@@ -21,12 +21,14 @@ Els materials estan organitzats per temàtiques i nivells de dificultat. A mesur
 MaterialsFormatiusSMX/
 ├── README.md
 ├── Programació/
-├── Xarxes Avançades/
+├── Desenvolupament web/
 ├── Sistemes Operatius/
+├── Xarxes/
+├── Virtualització i Contenidors/
 ├── Bases de Dades/
+├── Git i GitHub/
 ├── Seguretat Informàtica/
 ├── Cloud Computing/
-└── Projectes Pràctics/
 ```
 
 ## 🚀 Per on començar?
