@@ -13,6 +13,7 @@ Recull de recursos per aprendre els fonaments dels llenguatges de programació m
 
 - [Microsoft Learn: Java for Beginners](https://learn.microsoft.com/en-us/shows/java-for-beginners/)
 - [W3Schools: Java Tutorial](https://www.w3schools.com/java/)
+- [Java Programming; MOOC](https://java-programming.mooc.fi/)
 
 ## JavaScript
 
