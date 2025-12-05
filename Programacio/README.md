@@ -26,12 +26,7 @@ Recull de recursos per aprendre els fonaments dels llenguatges de programació m
 ## C\# ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
 - [Microsoft Learn: C# for absolute beginners](https://learn.microsoft.com/en-us/shows/csharp-fundamentals-for-absolute-beginners/)
-<<<<<<< HEAD
 - [Curso C#. Profe Gauthier (YouTube)](https://youtube.com/playlist?list=PLJMc3UJC58dX2K6KOmGrk3xioMd9sYjfw&si=WRhkCEeF8H2O51h1))
-=======
-- [W3Schools: C# Tutorial](https://www.w3schools.com/cs/index.php)
-- [Coursera MOOC: Introducción a la Programación con C#](https://cursos.mooc.es/curso/introduccin-a-la-programacin-con-c-5143)
->>>>>>> e8aa001cbdbebc007ba5e1a4df9f2cf648ca0e76
 
 ## Temes generals ![development](https://img.shields.io/badge/-Development-000000?style=flat-square&logo=dev.to&logoColor=white)
 
