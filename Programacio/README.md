@@ -8,6 +8,8 @@ Recull de recursos per aprendre els fonaments dels llenguatges de programació m
 - [Microsoft Learn: Python para principiantes](https://learn.microsoft.com/es-es/shows/intro-to-python-development/)
 - [Learn Python: Learn Python Programming](https://www.learnpython.org/)
 - [Python 101](https://python101.pythonlibrary.org/)
+- [Netacad (Cisco): Fundamentos de Python 1 (registro gratuito)](https://www.netacad.com/es/courses/python-essentials-1?courseLang=es-XL)
+- [Netacad (Cisco): Fundamentos de Python 2 (registro gratuito)](https://www.netacad.com/es/courses/python-essentials-2?courseLang=es-XL)
 
 ## Java ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
@@ -22,11 +24,22 @@ Recull de recursos per aprendre els fonaments dels llenguatges de programació m
 - [W3Schools: JavaScript Tutorial](https://www.w3schools.com/js/)
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [Learn JavaScript online](https://learnjavascript.online/)
+- [Netacad (Cisco): JavaScript Essentials 1 (registro gratuito)](https://www.netacad.com/es/courses/javascript-essentials-1?courseLang=en-US)
+- [Netacad (Cisco): JavaScript Essentials 2 (registro gratuito)](https://www.netacad.com/es/courses/javascript-essentials-2?courseLang=en-US)
 
 ## C\# ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
 - [Microsoft Learn: C# for absolute beginners](https://learn.microsoft.com/en-us/shows/csharp-fundamentals-for-absolute-beginners/)
 - [Curso C#. Profe Gauthier (YouTube)](https://youtube.com/playlist?list=PLJMc3UJC58dX2K6KOmGrk3xioMd9sYjfw&si=WRhkCEeF8H2O51h1))
+
+## C i C++ ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+- [Netacad (Cisco): C Essentials 1](https://www.netacad.com/es/courses/c-essentials-1?courseLang=en-US)
+- [Netacad (Cisco): C Essentials 2](https://www.netacad.com/es/courses/c-essentials-2?courseLang=en-US)
+- [Netacad (Cisco): C Advanced](https://www.netacad.com/es/courses/c-advanced?courseLang=en-US)
+- [Netacad (Cisco): C++ Essentials 1](https://www.netacad.com/es/courses/c-plus-plus-essentials-1?courseLang=en-US)
+- [Netacad (Cisco): C++ Essentials 2](https://www.netacad.com/es/courses/c-plus-plus-essentials-2?courseLang=en-US)
+- [Netacad (Cisco): C++ Advanced](https://www.netacad.com/es/courses/c-plus-plus-advanced?courseLang=en-US)
 
 ## Temes generals ![development](https://img.shields.io/badge/-Development-000000?style=flat-square&logo=dev.to&logoColor=white)
 

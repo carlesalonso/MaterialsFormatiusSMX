@@ -45,18 +45,18 @@ MaterialsFormatiusSMX/
 - Llenguates de programació: Python, Java, JavaScript, C#
 - Fonaments de programació orientada a objectes
 
-### Desenvolupament web
+### Desenvolupament web (./Desenvolupament_web)
 
 - HTML5 i CSS3
 - Conceptes de UI/UX
 
-### Sistemes Operatius
+### Sistemes Operatius (./Sistemes_Operatius)
 
 - Administració avançada de Linux
 - Scripting en Bash i PowerShell
 - Gestió de servidors
 
-### Xarxes
+### Xarxes (./Xarxes)
 
 - Configuració avançada de routers i switches
 - VLANs i segmentació de xarxa

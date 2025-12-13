@@ -6,12 +6,14 @@ Recull de recursos per aprendre els fonaments del desenvolupament web, incloent 
 
 - [Documentació oficial d'HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [W3Schools - HTML Tutorial](https://www.w3schools.com/html/)
+- [Netacad (Cisco): HTML Essentials](https://www.netacad.com/es/courses/html-essentials?courseLang=en-US)
 
 ## CSS3 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 - [Documentació oficial de CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [W3Schools - CSS Tutorial](https://www.w3schools.com/css/)
 - [CSS-Tricks](https://css-tricks.com/)
+- [Netacad (Cisco): CSS Essentials](https://www.netacad.com/es/courses/css-essentials?courseLang=en-US)
 
 ## UI/UX ![UI/UX](https://img.shields.io/badge/-UI%2FUX-000000?style=flat-square&logo=adobe&logoColor=white)
 
